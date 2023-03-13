@@ -1,0 +1,32 @@
+.center {
+    width: 800px;
+    height: auto;
+    overflow: hidden;
+    border: 2px solid #000;
+    margin: auto;
+    position: absolute;
+    top: 500px;
+    left: 500px;
+    text-align: center;
+}
+
+.center2 {
+    width: 800px;
+    height: auto;
+    overflow: hidden;
+    border: 2px solid #000;
+    margin: auto;
+    position: absolute;
+    top: 530px;
+    left: 500px;
+    text-align: center;
+}
+
+.l {
+    background-color: red;
+}
+
+.p {
+    background-color: #ffffff;
+    font-size: 20px;
+}
